@@ -15,6 +15,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
+- End Users osTicket URL:
+http://localhost/osTicket
+-Admin/Analyst Login Page:
+http://localhost/osTicket/scp/login.php 
 
 <h2>Operating Systems Used </h2>
 
@@ -29,26 +33,21 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![image](https://github.com/user-attachments/assets/d8c78997-165c-4757-9d3b-d6a1e4a15f76)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+(INTAKE) First we start with the ticket at hand creating it so the help desk agents we created previously can work the issue
+. 
+![image](https://github.com/user-attachments/assets/5286a060-2eb9-480e-98ad-f319c152ba38)
+
+![image](https://github.com/user-attachments/assets/f9c8de2d-efe0-48da-b870-b412bd0c92f2)
+
+(ASSIGNMENT AND COMMUNICATION)This ticket will first be handeled by the service agent that was created (John). Who will route the ticket to the appropriate place. As you can see from the image above the service agent John Doe updated the SLA plan as well as changed the help topic to more accurately fit the description.
+
+(WORKING THE ISSUE)
+(![image](https://github.com/user-attachments/assets/35cd8d3f-276a-437b-9d39-464e913472b3)
+(RESOLOUTION)The ticket was now assigned to the other agent that was created who had a higher role (supreme admin) to work on the ticket. After thoughtful research the ticket was resolved
+
+![image](https://github.com/user-attachments/assets/4aa133ff-92f4-4732-83b2-cad7f8ecb0ac)
+
+
